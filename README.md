@@ -1,8 +1,3 @@
-# Full Stack Coding Challenge
-
-The goal of this challenge is to allow you to show us your coding skills and thinking process, it's designed to emulate a real-life project that you would have on day to day basis, but also kept simple enough so that you can complete it within reasonable timeline.
-
-## Introduction
 
 a movie theater is looking to build a way of advertising what movies are showing or upcoming so they can attract more audience.
 
